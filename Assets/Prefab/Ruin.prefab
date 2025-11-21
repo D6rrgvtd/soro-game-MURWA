@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6526383837246120971}
   m_Layer: 0
   m_Name: Ruin
-  m_TagString: Untagged
+  m_TagString: obj
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{73BB4058-9571-0224-6CE5-C859D01B192A}</ProjectGuid>
+    <ProjectGuid>{BDE52C68-B1E2-6D43-7AE0-9418BD51FEE9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -65,6 +65,7 @@
     <Compile Include="Assets\script\MinimapMaker.cs" />
     <Compile Include="Assets\script\ScorpionNeedle.cs" />
     <Compile Include="Assets\script\IWeapon.cs" />
+    <Compile Include="Assets\BlackHoleEffect.cs" />
     <Compile Include="Assets\script\RearViewToggle.cs" />
     <Compile Include="Assets\script\PortalVortex.cs" />
     <Compile Include="Assets\script\PlayerAttack.cs" />
@@ -96,6 +97,7 @@
     <Compile Include="Assets\script\FloatingItem.cs" />
     <Compile Include="Assets\script\FadeInController.cs" />
     <Compile Include="Assets\script\EnemyDamage.cs" />
+    <Compile Include="Assets\script\VoidstoneBlackHole.cs" />
     <Compile Include="Assets\script\PlayerContrroller.cs" />
     <Compile Include="Assets\script\GameTimer.cs" />
   </ItemGroup>

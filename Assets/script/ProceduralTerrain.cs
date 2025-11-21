@@ -34,6 +34,7 @@ public class ProceduralTerrain : MonoBehaviour
     private Mesh mesh;
     private Vector3[] vertices;
     private List<GameObject> spawnedObjects = new List<GameObject>();
+    private GameObject wallParent;
 
     void Start()
     {
@@ -96,6 +97,7 @@ public class ProceduralTerrain : MonoBehaviour
         SpawnObjects();
         SpawnEnemies(FindAnyObjectByType<PlayerController>().transform);
         SpawnWeapon();
+        GenerateWalls();
     }
 
     void SpawnObjects()
@@ -240,5 +242,44 @@ public class ProceduralTerrain : MonoBehaviour
         spawnedWeapon = Instantiate(weaponPrefab, pos, Quaternion.identity);
     }
 
+    void GenerateWalls()
+    {
+        // 既存の壁削除
+        if (wallParent != null) Destroy(wallParent);
+        wallParent = new GameObject("Walls");
+
+        float thickness = 1f;     // 壁の厚み
+        float height = 10f;       // 壁の高さ
+
+        // 地形の中心座標
+        Vector3 basePos = transform.position;
+
+        // 4方向に壁を生成
+        // ◆ 北（奥）
+        CreateWall(new Vector3(width / 2f, height / 2f, depth) + basePos,
+                   new Vector3(width, height, thickness));
+
+        // ◆ 南（手前）
+        CreateWall(new Vector3(width / 2f, height / 2f, 0) + basePos,
+                   new Vector3(width, height, thickness));
+
+        // ◆ 東（右）
+        CreateWall(new Vector3(width, height / 2f, depth / 2f) + basePos,
+                   new Vector3(thickness, height, depth));
+
+        // ◆ 西（左）
+        CreateWall(new Vector3(0, height / 2f, depth / 2f) + basePos,
+                   new Vector3(thickness, height, depth));
+    }
+
+    void CreateWall(Vector3 position, Vector3 scale)
+    {
+        GameObject wall = GameObject.CreatePrimitive(PrimitiveType.Cube);
+        wall.transform.SetParent(wallParent.transform);
+        wall.transform.position = position;
+        wall.transform.localScale = scale;
+
+        wall.GetComponent<Renderer>().material.color = Color.gray; // 適当な色
+    }
 
 }

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ktc\\Desktop\\MURWA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\ktc\\desktop\\murwa\\assets\\proceduralwalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\proceduralwalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE52C68-B1E2-6D43-7AE0-9418BD51FEE9}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\MURWA\\assets\\script\\proceduralterrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE52C68-B1E2-6D43-7AE0-9418BD51FEE9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\proceduralterrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE52C68-B1E2-6D43-7AE0-9418BD51FEE9}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\MURWA\\assets\\blackholeeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE52C68-B1E2-6D43-7AE0-9418BD51FEE9}|Assembly-CSharp.csproj|solutionrelative:assets\\blackholeeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE52C68-B1E2-6D43-7AE0-9418BD51FEE9}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\MURWA\\assets\\script\\voidstoneblackhole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE52C68-B1E2-6D43-7AE0-9418BD51FEE9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\voidstoneblackhole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE52C68-B1E2-6D43-7AE0-9418BD51FEE9}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\MURWA\\assets\\script\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE52C68-B1E2-6D43-7AE0-9418BD51FEE9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE52C68-B1E2-6D43-7AE0-9418BD51FEE9}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\MURWA\\assets\\script\\weaponpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE52C68-B1E2-6D43-7AE0-9418BD51FEE9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weaponpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE52C68-B1E2-6D43-7AE0-9418BD51FEE9}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\MURWA\\assets\\script\\meteorvesel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE52C68-B1E2-6D43-7AE0-9418BD51FEE9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\meteorvesel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProceduralWalls.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\MURWA\\Assets\\ProceduralWalls.cs",
+              "RelativeDocumentMoniker": "Assets\\ProceduralWalls.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\MURWA\\Assets\\ProceduralWalls.cs",
+              "RelativeToolTip": "Assets\\ProceduralWalls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:15:14.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProceduralTerrain.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\MURWA\\Assets\\script\\ProceduralTerrain.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ProceduralTerrain.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\MURWA\\Assets\\script\\ProceduralTerrain.cs",
+              "RelativeToolTip": "Assets\\script\\ProceduralTerrain.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvykAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:53:02.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlackHoleEffect.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\MURWA\\Assets\\BlackHoleEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\BlackHoleEffect.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\MURWA\\Assets\\BlackHoleEffect.cs",
+              "RelativeToolTip": "Assets\\BlackHoleEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:20:48.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VoidstoneBlackHole.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\MURWA\\Assets\\script\\VoidstoneBlackHole.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\VoidstoneBlackHole.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\MURWA\\Assets\\script\\VoidstoneBlackHole.cs",
+              "RelativeToolTip": "Assets\\script\\VoidstoneBlackHole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:53:53.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\MURWA\\Assets\\script\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\MURWA\\Assets\\script\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\script\\PlayerAttack.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:16:06.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeaponPickup.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\MURWA\\Assets\\script\\WeaponPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\WeaponPickup.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\MURWA\\Assets\\script\\WeaponPickup.cs",
+              "RelativeToolTip": "Assets\\script\\WeaponPickup.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:10:42.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MeteorVesel.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\MURWA\\Assets\\script\\MeteorVesel.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\MeteorVesel.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\MURWA\\Assets\\script\\MeteorVesel.cs",
+              "RelativeToolTip": "Assets\\script\\MeteorVesel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T05:51:40.204Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
