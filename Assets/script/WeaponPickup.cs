@@ -7,7 +7,6 @@ public class WeaponPickup : MonoBehaviour
 
     void Awake()
     {
-        // このオブジェクトにアタッチされている武器スクリプト（IWeaponを実装しているもの）を取得
         weaponScript = GetComponent<IWeapon>();
 
         if (weaponScript == null)
@@ -24,23 +23,37 @@ public class WeaponPickup : MonoBehaviour
 
             if (playerAttack != null)
             {
-                // 現在の武器として登録
+                // 武器登録
                 playerAttack.currentWeapon = weaponScript;
 
-                // モデルをプレイヤーの手に装備
+                // 武器モデルを手に装備
                 Transform weaponTransform = (weaponScript as MonoBehaviour).transform;
                 weaponTransform.SetParent(other.transform);
                 weaponTransform.localPosition = new Vector3(0.5f, -0.3f, 1f);
                 weaponTransform.localRotation = Quaternion.identity;
 
-                isPickedUp = true;
-                Debug.Log($"{gameObject.name} を装備しました！");
+                // ★ この武器に付いている全ての攻撃スクリプトを有効化
+                EnableWeaponScripts(weaponTransform.gameObject);
 
-                Destroy(GetComponent<Collider>()); // もう拾えないように
+                isPickedUp = true;
+                Destroy(GetComponent<Collider>());
             }
-            else
+        }
+    }
+
+    // 子オブジェクトも含めて武器スクリプトをONにする
+    void EnableWeaponScripts(GameObject weapon)
+    {
+        // MonoBehaviour 全てを取得して有効化
+        MonoBehaviour[] scripts = weapon.GetComponentsInChildren<MonoBehaviour>(true);
+
+        foreach (var s in scripts)
+        {
+            // IWeapon ではなく「攻撃に関わるスクリプトのみ」をONにしたい場合、
+            // 名前などでフィルタ可能（例：GunRecoil, SwordAttack）
+            if (s is GunRecoil || s is tateburi )
             {
-                Debug.LogWarning("PlayerAttack がプレイヤーに付いていません。");
+                s.enabled = true;
             }
         }
     }

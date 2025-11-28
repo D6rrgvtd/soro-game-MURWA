@@ -3,17 +3,21 @@ using UnityEngine;
 public class Swordmain : MonoBehaviour, IWeapon
 {
     public Camera playerCamera;
-    public float damage = 30f;
-    public float attackRange = 3f;
+    public float damage = 35f;
+    public float attackRange = 5f;
+  
 
+   
     void Start()
     {
         if (playerCamera == null)
             playerCamera = Camera.main;
+      
     }
 
     public void Attack()
     {
+        
         if (playerCamera == null)
         {
             Debug.LogWarning("Sword is not equipped yet!");

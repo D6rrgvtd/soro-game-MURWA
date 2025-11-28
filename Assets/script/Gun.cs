@@ -23,6 +23,9 @@ public class Gun : MonoBehaviour, IWeapon
     private float lastFireTime = 0f;
     private AudioSource audioSource;
 
+    
+
+  
     void Start()
     {
         currentAmmo = maxAmmo;

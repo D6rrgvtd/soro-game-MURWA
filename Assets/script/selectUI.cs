@@ -19,8 +19,12 @@ public class selectUI : MonoBehaviour
 
     public void OnMainButton()
     {
-        SceneManager.LoadScene("Main menu");
+        SceneManager.LoadScene("title");
     }
 
+    public void OnruleButton()
+    {
+        SceneManager.LoadScene("rule");
+    }
 
 }

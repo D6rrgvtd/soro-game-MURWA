@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ktc\\Desktop\\1128\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|c:\\users\\ktc\\desktop\\1128\\assets\\openurlonstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|solutionrelative:assets\\openurlonstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|c:\\users\\ktc\\desktop\\1128\\assets\\script\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|c:\\users\\ktc\\desktop\\1128\\assets\\backbotton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|solutionrelative:assets\\backbotton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\1128\\assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\1128\\assets\\script\\weaponpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weaponpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\1128\\assets\\tateburi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|solutionrelative:assets\\tateburi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ktc\\Desktop\\1128\\Assets\\SwordAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SwordAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\1128\\assets\\gunrecoil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|solutionrelative:assets\\gunrecoil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\1128\\assets\\script\\swordmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\swordmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\1128\\assets\\script\\scorpionneedle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scorpionneedle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\1128\\assets\\script\\hookweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hookweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\1128\\assets\\script\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Desktop\\1128\\assets\\script\\meteorvesel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E318C377-B96E-EC07-A829-09DBEDC268EC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\meteorvesel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\script\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\MainMenuUI.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\script\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\script\\MainMenuUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:35:54.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenURLOnStart.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\OpenURLOnStart.cs",
+              "RelativeDocumentMoniker": "Assets\\OpenURLOnStart.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\OpenURLOnStart.cs",
+              "RelativeToolTip": "Assets\\OpenURLOnStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:30:39.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "backbotton.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\backbotton.cs",
+              "RelativeDocumentMoniker": "Assets\\backbotton.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\backbotton.cs",
+              "RelativeToolTip": "Assets\\backbotton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:15:18.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\script\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\script\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\script\\PlayerHealth.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T07:11:27.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GunRecoil.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\GunRecoil.cs",
+              "RelativeDocumentMoniker": "Assets\\GunRecoil.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\GunRecoil.cs",
+              "RelativeToolTip": "Assets\\GunRecoil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T07:06:44.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SwordAttack.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\SwordAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\SwordAttack.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\SwordAttack.cs",
+              "RelativeToolTip": "Assets\\SwordAttack.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T06:45:30.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScorpionNeedle.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\script\\ScorpionNeedle.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ScorpionNeedle.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\script\\ScorpionNeedle.cs",
+              "RelativeToolTip": "Assets\\script\\ScorpionNeedle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:22:52.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeaponPickup.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\script\\WeaponPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\WeaponPickup.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\script\\WeaponPickup.cs",
+              "RelativeToolTip": "Assets\\script\\WeaponPickup.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwDUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:05:36.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tateburi.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\tateburi.cs",
+              "RelativeDocumentMoniker": "Assets\\tateburi.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\tateburi.cs",
+              "RelativeToolTip": "Assets\\tateburi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T07:29:54.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MeteorVesel.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\script\\MeteorVesel.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\MeteorVesel.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\script\\MeteorVesel.cs",
+              "RelativeToolTip": "Assets\\script\\MeteorVesel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:23:04.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HookWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\script\\HookWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\HookWeapon.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\script\\HookWeapon.cs",
+              "RelativeToolTip": "Assets\\script\\HookWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:22:39.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Swordmain.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\script\\Swordmain.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Swordmain.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\script\\Swordmain.cs",
+              "RelativeToolTip": "Assets\\script\\Swordmain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:21:05.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\script\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Gun.cs",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\1128\\Assets\\script\\Gun.cs",
+              "RelativeToolTip": "Assets\\script\\Gun.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvxsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:22:24.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

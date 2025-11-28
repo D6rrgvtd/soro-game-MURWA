@@ -13,7 +13,7 @@ public class MainMenuUI : MonoBehaviour
     public void OnStartButton()
     {
         // ƒQ[ƒ€ƒV[ƒ“‚ÉˆÚ“®
-        SceneManager.LoadScene("select"); 
+        SceneManager.LoadScene("main menu"); 
     }
 
     public void OnOptionButton()

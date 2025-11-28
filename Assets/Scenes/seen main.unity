@@ -362,12 +362,7 @@ MonoBehaviour:
   - {fileID: 3983539497186652417, guid: cefe0fef60458be4cbcd85d8b48d4301, type: 3}
   objectCount: 50
   weaponPrefabs:
-  - {fileID: 3297178305297008123, guid: 82248e6b3c321994daa7a041d54a3587, type: 3}
-  - {fileID: 1913969649813688345, guid: b055e6205fd389b439993e135832f240, type: 3}
-  - {fileID: 4140683291236525793, guid: 5b60c2370c785bf4eaeb93375170fb92, type: 3}
-  - {fileID: 8202814086868826188, guid: 5ba5af871f222f143a8c0f52fe46f376, type: 3}
   - {fileID: 88636601096349047, guid: 8e95290c8bc33c542aa3231715cc0193, type: 3}
-  - {fileID: 1854524443710906540, guid: 83d5d357396565b4ea900d7df85a50f0, type: 3}
   playerCamera: {fileID: 927349233}
   enemyPrefab: {fileID: 3372605942725519860, guid: bc2a67f2aef0e474e84eb59d47415537, type: 3}
   minEnemies: 3

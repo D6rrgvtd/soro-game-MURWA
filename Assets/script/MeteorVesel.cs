@@ -17,7 +17,9 @@ public class MeteorVessel : MonoBehaviour, IWeapon
     public int meteordown = 0;
 
     private bool isCasting = false;
+   
 
+   
     void Start()
     {
         if (playerCamera == null)
@@ -27,6 +29,7 @@ public class MeteorVessel : MonoBehaviour, IWeapon
             meteorCamera = GameObject.Find("meteorcamera").GetComponent<Camera>();
 
         meteorCamera.enabled = false;
+     
     }
 
 

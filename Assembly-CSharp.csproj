@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{BDE52C68-B1E2-6D43-7AE0-9418BD51FEE9}</ProjectGuid>
+    <ProjectGuid>{E318C377-B96E-EC07-A829-09DBEDC268EC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,11 +61,11 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.41f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\script\BlackHoleEffect.cs" />
     <Compile Include="Assets\script\AudioSettings.cs" />
     <Compile Include="Assets\script\MinimapMaker.cs" />
     <Compile Include="Assets\script\ScorpionNeedle.cs" />
     <Compile Include="Assets\script\IWeapon.cs" />
-    <Compile Include="Assets\BlackHoleEffect.cs" />
     <Compile Include="Assets\script\RearViewToggle.cs" />
     <Compile Include="Assets\script\PortalVortex.cs" />
     <Compile Include="Assets\script\PlayerAttack.cs" />
@@ -73,9 +73,12 @@
     <Compile Include="Assets\script\optionUI.cs" />
     <Compile Include="Assets\script\PlayerWeaponPickup.cs" />
     <Compile Include="Assets\script\MainMenuUI.cs" />
+    <Compile Include="Assets\OpenURLOnStart.cs" />
     <Compile Include="Assets\script\selectUI.cs" />
     <Compile Include="Assets\script\Gameclear.cs" />
     <Compile Include="Assets\script\Portal.cs" />
+    <Compile Include="Assets\GunRecoil.cs" />
+    <Compile Include="Assets\script\effctDestroy.cs" />
     <Compile Include="Assets\script\WeaponPickup.cs" />
     <Compile Include="Assets\script\DiagonalMeteor.cs" />
     <Compile Include="Assets\script\PlayerHealth.cs" />
@@ -87,9 +90,11 @@
     <Compile Include="Assets\script\URLobject.cs" />
     <Compile Include="Assets\script\Gun.cs" />
     <Compile Include="Assets\script\ResultUI.cs" />
+    <Compile Include="Assets\backbotton.cs" />
     <Compile Include="Assets\script\TimeoutButton.cs" />
     <Compile Include="Assets\script\EnemyHealth.cs" />
     <Compile Include="Assets\script\EnemyAi.cs" />
+    <Compile Include="Assets\tateburi.cs" />
     <Compile Include="Assets\script\TriggrtTest.cs" />
     <Compile Include="Assets\script\HookWeapon.cs" />
     <Compile Include="Assets\script\MinimaoFollow.cs" />

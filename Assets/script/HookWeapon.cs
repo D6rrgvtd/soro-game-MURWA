@@ -15,11 +15,14 @@ public class HookWeapon : MonoBehaviour, IWeapon
 
     private GameObject pulledEnemy;
     private bool canBonus = false;
+    
 
+  
     void Start()
     {
         if (playerCamera == null) 
             playerCamera = Camera.main;
+        
     }
 
     public void Attack()

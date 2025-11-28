@@ -14,10 +14,13 @@ public class ScorpionNeedle : MonoBehaviour, IWeapon
     // “Å’†‚Ì“G‚ğŠÇ—
     private List<Coroutine> activePoisons = new List<Coroutine>();
 
+
+   
     void Start()
     {
         if (playerCamera == null)
             playerCamera = Camera.main;
+       
     }
 
     public void Attack()
